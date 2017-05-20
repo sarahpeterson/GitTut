@@ -1,0 +1,332 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sec",
+				"secret_board"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"text-",
+				"text-decoration-color"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"arti",
+				"articles_path"
+			],
+			[
+				"a",
+				"add"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"new",
+				"newstuff"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"f",
+				"inline-flex"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"a-color",
+				"text-decoration-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sarahpeterson/Desktop/AP/Math.rb",
+		"/Users/sarahpeterson/Desktop/MapDisplay/MapDisplay.css",
+		"/Users/sarahpeterson/Desktop/AP/Battleship.rb",
+		"/Users/sarahpeterson/Desktop/AP/GardenBoxKata.rb",
+		"/Users/sarahpeterson/Desktop/AP/MailMerge.rb",
+		"/Users/sarahpeterson/Desktop/AP/Calculator.html",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/assets/javascripts/application.js",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/assets/stylesheets/application.css",
+		"/Users/sarahpeterson/Desktop/trello/blog/Gemfile",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/postits/edit.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/controllers/postits_controller.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/postits/index.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/models/comment.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/welcome/index.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/postits/new.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/models/postit.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/postits/show.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/Comments/_comment.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/Comments/_form.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/views/postits/_form.html.erb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/controllers/comments_controller.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/controllers/welcome_controller.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/config/routes.rb",
+		"/Users/sarahpeterson/Desktop/trello/blog/app/controllers/post_its_controller.rb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/comments/_comment.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/comments/_form.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/articles/show.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/welcome/index.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/models/article.rb",
+		"/Users/sarahpeterson/Desktop/blog/app/controllers/articles_controller.rb",
+		"/Users/sarahpeterson/Desktop/blog/app/controllers/comments_controller.rb",
+		"/Users/sarahpeterson/Desktop/blog/config/routes.rb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/articles/new.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/articles/edit.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/articles/index.html.erb",
+		"/Users/sarahpeterson/Desktop/blog/app/views/articles/_form.html.erb",
+		"/Users/sarahpeterson/Desktop/Calculator.html",
+		"/Users/sarahpeterson/Desktop/MapDisplay/MapDisplay.html",
+		"/Users/sarahpeterson/Desktop/MapDisplay/untitled.html",
+		"/Users/sarahpeterson/Desktop/heatmap/About.html",
+		"/Users/sarahpeterson/Desktop/heatmap/FindHelp.html",
+		"/Users/sarahpeterson/Desktop/heatmap/SendLove.html",
+		"/Users/sarahpeterson/Desktop/heatmap/YourStory.html",
+		"/Users/sarahpeterson/Desktop/heatmap/SubmitConfirmation.html",
+		"/Users/sarahpeterson/Desktop/heatmap/SamplePointSquare.json",
+		"/Users/sarahpeterson/Desktop/heatmap/northoakland.json",
+		"/Users/sarahpeterson/Desktop/heatmap/MentalHealth.html",
+		"/Users/sarahpeterson/Desktop/heatmap/style.css",
+		"/Users/sarahpeterson/Desktop/heatmap/slider.html",
+		"/Users/sarahpeterson/Desktop/heatmap/style2.css",
+		"/Users/sarahpeterson/Desktop/style.css",
+		"/Users/sarahpeterson/Desktop/MentalHealth.html",
+		"/Users/sarahpeterson/Desktop/heatmap/Your Story.html",
+		"/Users/sarahpeterson/Desktop/overlay.js",
+		"/Users/sarahpeterson/Desktop/Admin.html",
+		"/Users/sarahpeterson/Desktop/GitLab/ArraySort/arraysort_program.rb",
+		"/Users/sarahpeterson/Desktop/GitLab/ArraySort/lib/arraysort_classes.rb",
+		"/Users/sarahpeterson/Desktop/GitLab/ArraySort/spec/arraysort_spec.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/MorseCode/lib/converter.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/Example/program.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/Example/spec/converter_spec.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/Example/lib/converter.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/Template.rb/template_program.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/Template.rb/template.txt",
+		"/Users/sarahpeterson/Desktop/rubytesting/Template.rb/lib/template_engine.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/ArraySort/spec/arraysort_spec",
+		"/Users/sarahpeterson/Desktop/AP/Inputhelperkata",
+		"/Users/sarahpeterson/Desktop/rubytesting/InputHelperKata/inputhelper",
+		"/Users/sarahpeterson/Desktop/AP/MessagingSystemKata.rb",
+		"/Users/sarahpeterson/Desktop/AP/BattleshipJeanKata",
+		"/Users/sarahpeterson/Desktop/AP/Battleship copy.rb",
+		"/Users/sarahpeterson/Desktop/AP/kata_converter_spec.rb",
+		"/Users/sarahpeterson/Desktop/AP/kata_converter.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/AutoComplete/lib/converter.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/AutoComplete/program.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/AutoComplete/spec/converter_spec.rb",
+		"/Users/sarahpeterson/Desktop/rubytesting/MorseCode/spec/converter_spec",
+		"/Users/sarahpeterson/Desktop/rubytesting/Template.rb/spec/template_engine_spec.rb",
+		"/Users/sarahpeterson/Desktop/testingone",
+		"/Users/sarahpeterson/Desktop/converter_spec.rb",
+		"/Users/sarahpeterson/Desktop/converter.rb",
+		"/Users/sarahpeterson/Desktop/MessagingAppWClasses.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/program.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/converter.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/Kata.rb",
+		"/Users/sarahpeterson/Desktop/Battleship.rb",
+		"/Users/sarahpeterson/Desktop/morsecodekata.rb",
+		"/Users/sarahpeterson/Desktop/GardenBoxKata.rb",
+		"/Users/sarahpeterson/Desktop/Math.rb",
+		"/Users/sarahpeterson/Desktop/Template.rb",
+		"/Users/sarahpeterson/Desktop/formletter.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/MorseCode.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/Messaging.rb",
+		"/Users/sarahpeterson/Desktop/MailMerge.rb",
+		"/Users/sarahpeterson/Desktop/program.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/session3.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/loops.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/Birthdays.rb",
+		"/Users/sarahpeterson/Desktop/Academy Pittsburgh/Converter.rb"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			">\n",
+			"container",
+			"media",
+			"svg",
+			">\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 213.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
